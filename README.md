@@ -110,6 +110,130 @@ Developed a Power BI dashboard analyzing air traffic control awareness impact on
 <br>
 
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/36786/Global_SuperStore_Gif_.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Global Superstore Sales Dashboard
+
+Developed a Power BI dashboard delivering actionable sales insights across countries, segments, and categories for a global retail superstore.
+
+<br>
+
+<code>Power BI</code> <code>Excel</code> <code>DAX</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-4/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32143/Final_US_School_Shooting_.PNG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## US SCHOOL SHOOTING DASHBOARD
+
+Developed a Power BI dashboard analyzing US school shootings to support data-driven security enhancements from 1990 to 2020.
+
+<br>
+
+<code>Power BI</code> <code>Excel</code> <code>DAX</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-5/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/34317/Executive_Summary.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Bike Sales in Six Countries (2011 - 2016)
+
+Analyzed bike sales trends across six countries to identify year-over-year changes and provide actionable business recommendations.
+
+<br>
+
+<code>Power BI</code> <code>Microsoft Excel</code> <code>DAX</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-6/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/38114/Coffe_chain_Dashboard.png" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Us Coffee Chain
+
+Analyzed profitability and performance of a coffee chain's products across multiple markets using Power BI and Tableau.
+
+<br>
+
+<code>Power BI</code> <code>Tableau</code> <code>DAX</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-7/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
 ---
 
 ## Contact
