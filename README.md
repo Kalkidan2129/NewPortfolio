@@ -1,17 +1,17 @@
-# Hi, I'm Kal 👋
+# Hi, I'm Kalkidan 👋
 
-## BI
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/Data%20Transformation-00A6A6?style=for-the-badge&logoColor=white" alt="Data Transformation"> <img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Warehousing-D83B01?style=for-the-badge&logoColor=white" alt="Data Warehousing"> <img src="https://img.shields.io/badge/ETL%20Processes-F2C811?style=for-the-badge&logoColor=white" alt="ETL Processes"> <img src="https://img.shields.io/badge/Tableau-025E8C?style=for-the-badge&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/Calculated%20Measures-00A6A6?style=for-the-badge&logoColor=white" alt="Calculated Measures"> <img src="https://img.shields.io/badge/Data%20Grouping%20and%20Binning-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Grouping and Binning"> <img src="https://img.shields.io/badge/Data%20Visualization-025E8C?style=for-the-badge&logoColor=white" alt="Data Visualization">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-025E8C?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Microsoft%20Office-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/ETL%20processes-217346?style=for-the-badge&logoColor=white" alt="ETL processes"> <img src="https://img.shields.io/badge/Data%20Reporting-FF7A00?style=for-the-badge&logoColor=white" alt="Data Reporting"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/Data%20Transformation-00A6A6?style=for-the-badge&logoColor=white" alt="Data Transformation"> <img src="https://img.shields.io/badge/Data%20Modeling-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Warehousing-D83B01?style=for-the-badge&logoColor=white" alt="Data Warehousing"> <img src="https://img.shields.io/badge/Tableau-025E8C?style=for-the-badge&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/Calculated%20Measures-00A6A6?style=for-the-badge&logoColor=white" alt="Calculated Measures"> <img src="https://img.shields.io/badge/Data%20Grouping%20and%20Binning-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Grouping and Binning"> <img src="https://img.shields.io/badge/Data%20Visualization-025E8C?style=for-the-badge&logoColor=white" alt="Data Visualization">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My work focuses on building interactive dashboards and reports that support data-driven decision-making, particularly within the retail sector. I am confident in leveraging business intelligence techniques to analyze trends and performance metrics that drive strategic outcomes.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI and Excel. My work focuses on building interactive dashboards and reports that support business intelligence and informed decision-making, particularly in areas related to energy and environmental impact. Through effective data cleaning, ETL processes, and visualization, I help translate raw data into meaningful stories that drive strategic understanding.
 
 ---
 
@@ -265,8 +265,39 @@ Developed a unified ML-ready platform for Vodafone Qatar to forecast revenue and
 <br>
 
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/40051/ProjectPicture_Approved.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Global Fossil Fuel Production and Consumption - Power BI Dashboard
+
+Developed a Power BI dashboard analyzing global fossil fuel production and consumption to support energy transition decisions.
+
+<br>
+
+<code>Power BI</code> <code>Excel</code> <code>Microsoft Office</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-9/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
 ---
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
