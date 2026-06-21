@@ -17,7 +17,6 @@ I am a data analyst skilled in transforming raw sales data into actionable insig
 
 ## Projects
 
-
 <table>
 <tr>
 <td width="45%" align="center" valign="middle">
@@ -49,8 +48,70 @@ Analyzed year-over-year sales trends across 45 Walmart stores using Power BI to 
 <br>
 
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/33934/Excutive_Summary_gif.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Conflict in Ethiopia (1997 - 2015)
+
+Analyzed Ethiopia's ethnic conflicts (1997-2015) using data visualization to uncover causes and trends impacting regional stability.
+
+<br>
+
+<code>Power BI</code> <code>Data Visualization</code> <code>Human Rights Council Data</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-2/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Air Traffic Control Awareness and Wildlife Strikes
+
+Developed a Power BI dashboard analyzing air traffic control awareness impact on wildlife strike damage and passenger safety.
+
+<br>
+
+<code>Power BI</code> <code>SQL Server</code> <code>Microsoft Office</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-3/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
 ---
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
