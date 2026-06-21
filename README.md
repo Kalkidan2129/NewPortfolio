@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Tableau-6A5ACD?style=for-the-badge&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/DAX-D83B01?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-F2C811?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Data%20Modeling-025E8C?style=for-the-badge&logoColor=white" alt="Data Modeling">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/ETL%20processes-3776AB?style=for-the-badge&logoColor=white" alt="ETL processes"> <img src="https://img.shields.io/badge/Data%20visualization-217346?style=for-the-badge&logoColor=white" alt="Data visualization"> <img src="https://img.shields.io/badge/Data%20mining-FF7A00?style=for-the-badge&logoColor=white" alt="Data mining">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools such as Python, Power BI, Tableau, and SQL. My work focuses on building robust data pipelines, performing in-depth analysis, and developing interactive dashboards that support business intelligence and data-driven decision-making across industries like telecommunications, retail, and transportation. I excel at turning raw data into meaningful reports that enable teams to forecast trends, identify performance drivers, and optimize strategic outcomes.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI for dashboarding and reporting. My work focuses on extracting meaningful trends through data mining and ETL processes to support informed decision-making in sectors such as healthcare and transportation. I am passionate about leveraging business intelligence to help organizations understand critical patterns and improve outcomes.
 
 ---
 
@@ -172,8 +172,39 @@ Developed a Power BI dashboard analyzing pilot awareness impact on wildlife stri
 <br>
 
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/31546/Project_Picture.gif" width="100%" >
+
+</td>
+
+<td width="55%" valign="top">
+
+## Power BI Dashboard of US Accidents: 2016 - 2020
+
+Developed a Power BI dashboard analyzing US traffic accident trends to support data-driven safety improvements and policy decisions.
+
+<br>
+
+<code>Power BI</code> <code>DAX</code> <code>ETL processes</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-6/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
 ---
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
