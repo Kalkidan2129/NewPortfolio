@@ -3,21 +3,21 @@
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze sales data from 45 Walmart stores in the US between 2010 and 2012. It focused on assessing year-over-year sales trends during the recovery period following the 2008 recession. The dashboard incorporated data modeling, DAX measures, and visualizations to provide actionable retail insights.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. It focused on visualizing sales trends during the post-recession period to identify key factors impacting store performance. The dashboard incorporated advanced DAX measures and data modeling techniques to deliver actionable insights.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced fluctuating sales impacts during the economic recovery after the 2008 recession, similar to other discount retailers. Understanding sales trends and external factors was critical to optimize store performance and strategic planning. The challenge was to analyze multi-year sales data effectively to identify key drivers and seasonal impacts.
+Walmart stores, like many discount retailers, experienced fluctuating sales during the recovery from the 2008 recession. Understanding these sales patterns was critical to optimizing inventory, promotions, and store operations. The challenge was to analyze multi-year sales data to uncover trends and external factors influencing performance.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends across Walmart stores
-- Incorporate economic and seasonal factors into sales analysis
-- Develop an interactive Power BI dashboard for data-driven decision making
+- Analyze year-over-year sales trends across multiple Walmart stores
+- Incorporate external factors like holidays and unemployment rates into the analysis
+- Build an interactive Power BI dashboard for clear visualization and decision support
 
 ---
 
@@ -34,19 +34,22 @@ Walmart stores faced fluctuating sales impacts during the economic recovery afte
 ## Project Workflow
 
 - Import Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables using DAX
+- Create calendar and refresh date tables for time intelligence
 - Establish relationships between sales and calendar tables
-- Create conditional columns for holiday and unemployment flags
-- Develop DAX measures to calculate total, average, and year-over-year sales
+- Add conditional columns for holiday flags and unemployment rates
+- Develop DAX measures to calculate total sales, average sales, and sales growth
+- Design and customize the dashboard with logos and titles
+- Apply custom sorting for enhanced data presentation
+- Deploy and share the dashboard via Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Sales trends showed variability influenced by holiday weeks and unemployment rates
-- Year-over-year sales analysis highlighted recovery patterns post-recession
-- Custom sorting of calendar and conditional columns improved data clarity
-- DAX measures enabled detailed performance metrics across stores and time
+- Sales showed variability influenced by holiday periods and unemployment rates
+- Year-over-year sales growth highlighted recovery trends post-2008 recession
+- Certain months consistently outperformed others, indicating seasonal effects
+- Data modeling improved accuracy in time-based sales comparisons
 
 ---
 
@@ -58,9 +61,9 @@ Walmart stores faced fluctuating sales impacts during the economic recovery afte
 
 ## Business Impact
 
-- Enabled Walmart to identify sales performance drivers during economic recovery
-- Provided actionable insights for inventory and promotional planning
-- Improved reporting efficiency with an interactive, automated dashboard
+- Enabled Walmart to identify sales trends and seasonal impacts for better planning
+- Provided actionable insights to optimize store operations during economic recovery
+- Improved decision-making through interactive and visually intuitive dashboards
 
 ---
 
