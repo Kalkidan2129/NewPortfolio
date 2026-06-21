@@ -3,50 +3,50 @@
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze sales data from 45 Walmart stores in the US between 2010 and 2012. It focused on year-over-year sales trends, incorporating calendar tables, conditional columns, and DAX measures to provide actionable retail insights.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US between 2010 and 2012. It included data import, modeling, DAX measure creation, and visualization to assess sales performance during the post-recession period. The dashboard provided actionable insights into sales trends affected by economic factors.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced fluctuating sales during the recovery period following the 2008 recession, impacting revenue and operational planning. Understanding sales trends was critical to optimize store performance and inventory management.
+Walmart stores, like other discount retailers, faced sales challenges emerging from the 2008 recession. Understanding sales trends and factors influencing performance was critical to strategize recovery and growth. The project aimed to analyze historical sales data to identify patterns and impacts on store performance.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales performance across multiple Walmart stores
-- Create dynamic dashboards to visualize sales trends and seasonal impacts
-- Incorporate economic indicators like unemployment rates to contextualize sales data
+- Import and model Walmart sales data in Power BI
+- Create DAX measures to calculate sales metrics and trends
+- Develop a user-friendly dashboard to visualize year-over-year sales
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop
-- DAX (Data Analysis Expressions)
+- DAX
+- Excel (for initial data handling)
 - Power Query Editor
-- Excel
-- CSV Data Files
+- CSV data files
 
 ---
 
 ## Project Workflow
 
 - Import Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables for time intelligence
+- Create calendar and refresh date tables using DAX
 - Establish relationships between sales and calendar tables
-- Develop conditional columns for holidays and unemployment rates
-- Build DAX measures to calculate total, average, and year-over-year sales
+- Add conditional columns for holidays and unemployment rates
+- Develop DAX measures for total sales, average sales, and year-over-year growth
 
 ---
 
 ## Key Insights
 
-- Sales showed variability influenced by economic recovery post-2008 recession
-- Holiday weeks and unemployment rates significantly impacted weekly sales
-- Month-over-month and year-over-year sales trends highlighted seasonal patterns
-- Data modeling and relationships enabled accurate time-based sales analysis
+- Sales trends showed fluctuations influenced by economic recovery post-2008 recession
+- Holiday weeks and unemployment rates impacted weekly sales performance
+- Month-over-month and year-over-year sales comparisons highlighted seasonal patterns
+- Custom sorting improved clarity in visualizing sales data by time periods and conditions
 
 ---
 
@@ -58,9 +58,9 @@ Walmart stores faced fluctuating sales during the recovery period following the 
 
 ## Business Impact
 
-- Enabled Walmart to identify sales trends for better inventory and staffing decisions
-- Provided actionable insights to improve sales forecasting accuracy
-- Supported strategic planning during economic recovery periods
+- Enabled Walmart to identify sales recovery trends across stores post-recession
+- Provided actionable insights for strategic planning around holidays and economic factors
+- Improved data-driven decision making through interactive Power BI dashboards
 
 ---
 
