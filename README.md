@@ -1,17 +1,17 @@
 # Hi, I'm Kalkidan 👋
 
-## Power BI Developer
+## BI Analyst
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/ETL%20processes-3776AB?style=for-the-badge&logoColor=white" alt="ETL processes"> <img src="https://img.shields.io/badge/Data%20visualization-217346?style=for-the-badge&logoColor=white" alt="Data visualization"> <img src="https://img.shields.io/badge/Data%20mining-FF7A00?style=for-the-badge&logoColor=white" alt="Data mining">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Data%20Visualization-025E8C?style=for-the-badge&logoColor=white" alt="Data Visualization"> <img src="https://img.shields.io/badge/Line%20and%20Stacked%20Column%20Charts-3776AB?style=for-the-badge&logoColor=white" alt="Line and Stacked Column Charts">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI for dashboarding and reporting. My work focuses on extracting meaningful trends through data mining and ETL processes to support informed decision-making in sectors such as healthcare and transportation. I am passionate about leveraging business intelligence to help organizations understand critical patterns and improve outcomes.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI to support informed decision-making. My experience includes analyzing socio-political and resource-based conflicts, demonstrating my ability to handle nuanced data related to government and social issues. I specialize in dashboard creation, reporting, and business intelligence to help stakeholders understand trends and drive strategic outcomes.
 
 ---
 
@@ -194,6 +194,37 @@ Developed a Power BI dashboard analyzing US traffic accident trends to support d
 
 <p align="right">
   <a href="./project-6/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/33934/Excutive_Summary_gif.gif" width="100%" >
+
+</td>
+
+<td width="55%" valign="top">
+
+## Conflict in Ethiopia (1997 - 2015)
+
+Analyzed Ethiopia's ethnic conflicts (1997-2015) using Power BI to identify key causes and trends impacting regional stability.
+
+<br>
+
+<code>Power BI</code> <code>Data Visualization</code> <code>Human Rights Council Conflict Data</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-7/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
