@@ -5,7 +5,7 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logoColor=white" alt="Microsoft Office">
 
 ---
 
@@ -232,7 +232,6 @@ Analyzed profitability and performance of a coffee chain's products across multi
 </table>
 
 <br>
-
 
 ---
 
