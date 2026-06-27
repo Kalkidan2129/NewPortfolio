@@ -11,12 +11,11 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. My work focuses on creating dynamic dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am adept at analyzing trends and performance metrics to help organizations understand their sales dynamics and optimize strategies.
+I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. I specialize in creating dynamic dashboards and reports that support business intelligence and inform decision-making, particularly within the retail sector. My work demonstrates a strong ability to analyze trends and performance metrics to help organizations better understand their sales dynamics.
 
 ---
 
 ## Projects
-
 
 <table>
 <tr>
@@ -48,9 +47,8 @@ Analyzed year-over-year sales trends across 45 Walmart stores using Power BI to 
 
 <br>
 
-
 ---
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
