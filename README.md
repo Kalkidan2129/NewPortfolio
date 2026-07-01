@@ -1,6 +1,6 @@
-# Hi, I'm Kal 👋
+# Hi, I'm Kalkidan 👋
 
-## BI
+## Power BI Developer
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. My work focuses on creating interactive dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am confident in my ability to analyze trends and present clear visualizations that drive strategic outcomes.
+I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My work focuses on creating interactive dashboards and reports that support decision-making in retail environments by highlighting key trends and performance metrics. I am confident in leveraging data visualization and business intelligence techniques to drive strategic analysis and improve operational outcomes.
 
 ---
 
