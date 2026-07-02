@@ -1,6 +1,6 @@
-# Hi, I'm Kalkidan 👋
+# Hi, I'm a Data Professional 👋
 
-## BI Analyst
+## Data Analytics Portfolio
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools such as Power BI and Excel. My experience includes developing interactive dashboards and reports that support business intelligence and decision-making in retail environments. I am confident in my ability to analyze trends, visualize key metrics, and communicate findings clearly to drive informed strategies.
+I am a data analyst skilled in transforming raw data into clear, actionable insights using tools such as Excel, SQL, and Tableau. I focus on creating intuitive dashboards and reports that support business intelligence and informed decision-making across various industries. My approach combines analytical rigor with effective data visualization to help stakeholders understand key trends and drive strategic outcomes.
 
 ---
 
