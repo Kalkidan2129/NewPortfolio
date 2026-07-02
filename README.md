@@ -1,17 +1,17 @@
 # Hi, I'm Kalkidan 👋
 
-## Power BI Developer
+## BI Analyst
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My work focuses on creating interactive dashboards and reports that support decision-making in retail environments by highlighting key trends and performance metrics. I am confident in leveraging data visualization and business intelligence techniques to drive strategic analysis and improve operational outcomes.
+I am a data analyst skilled in transforming raw sales data into actionable insights using tools such as Power BI and Excel. My experience includes developing interactive dashboards and reports that support business intelligence and decision-making in retail environments. I am confident in my ability to analyze trends, visualize key metrics, and communicate findings clearly to drive informed strategies.
 
 ---
 
