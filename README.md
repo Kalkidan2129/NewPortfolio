@@ -1,6 +1,6 @@
 # Hi, I'm Kalkidan Bezabeh 👋
 
-## AI & Data Analytics Portfolio
+## Power BI Developer
 
 
 ## Skills & Tools
@@ -11,12 +11,11 @@
 
 ## About
 
-I am a data analyst skilled in transforming complex raw data into clear, actionable insights using tools like Python, Power BI, and modern ETL processes. My work focuses on building robust data pipelines and interactive dashboards that support forecasting, performance analysis, and strategic decision-making. By combining data science techniques with business intelligence, I help organizations unlock value from their data to drive informed, data-driven outcomes.
+I am a data analyst skilled in transforming complex, raw datasets into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise includes data extraction, transformation, and loading (ETL), as well as building interactive dashboards and reports that support forecasting and performance analysis. By leveraging data science techniques and business intelligence, I enable data-driven decision-making that drives strategic outcomes in dynamic industries such as telecommunications.
 
 ---
 
 ## Projects
-
 
 <table>
 <tr>
@@ -47,7 +46,6 @@ Built a unified ML-ready analytics platform using NexusMax to forecast Vodafone 
 </table>
 
 <br>
-
 
 ---
 
