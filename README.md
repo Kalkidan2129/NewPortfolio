@@ -1,17 +1,17 @@
 # Hi, I'm Kalkidan Bezabeh 👋
 
-## BI Analyst
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Numtra-FF7A00?style=for-the-badge&logoColor=white" alt="Numtra"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Kaggle%20dataset-6A5ACD?style=for-the-badge&logoColor=white" alt="Kaggle dataset"> <img src="https://img.shields.io/badge/Numtra-FF7A00?style=for-the-badge&logoColor=white" alt="Numtra">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex, raw datasets into clear, actionable insights using tools such as Python, Power BI, and Microsoft Fabric. My expertise lies in data wrangling, ETL processes, and building interactive dashboards that support forecasting and performance analysis, enabling data-driven decision-making in dynamic business environments. I focus on leveraging business intelligence and machine learning techniques to deliver meaningful reports that drive strategic outcomes, particularly within finance and telecommunications contexts.
+I am a data analyst skilled in transforming complex raw data into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise includes data extraction, transformation, and loading (ETL), building unified data foundations, and developing interactive dashboards that support forecasting and performance analysis. I focus on enabling data-driven decision-making through business intelligence solutions tailored to dynamic industries such as telecommunications and finance.
 
 ---
 
