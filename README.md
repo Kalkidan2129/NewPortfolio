@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming complex, raw datasets into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise includes data extraction, transformation, and loading (ETL), as well as building interactive dashboards and reports that support forecasting and performance analysis. By leveraging data science techniques and business intelligence, I enable data-driven decision-making that drives strategic outcomes in dynamic industries such as telecommunications.
+I am a data analyst skilled in transforming complex, raw datasets into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise lies in data preparation, ETL processes, and building interactive dashboards that support forecasting, performance analysis, and strategic decision-making. I focus on leveraging data science and business intelligence techniques to drive measurable improvements in industries such as telecommunications and finance.
 
 ---
 
