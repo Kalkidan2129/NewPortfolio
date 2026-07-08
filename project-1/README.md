@@ -3,21 +3,21 @@
 
 ## Project Overview
 
-This project transformed Vodafone Qatar's raw telecom data into a unified, machine-learning-ready dataset using NexusMax, Python, and Microsoft Fabric. It enabled advanced revenue forecasting, churn analysis, and performance tracking through interactive Power BI dashboards. The solution empowered finance and strategy teams with actionable insights for data-driven decision-making.
+This project transformed Vodafone Qatar's raw telecom data into a unified, machine-learning-ready dataset using NexusMax, Python, and Microsoft Fabric. It enabled advanced revenue forecasting, churn analysis, and performance tracking through interactive dashboards, supporting data-driven decision-making for finance and strategy teams.
 
 ---
 
 ## Business Problem
 
-Vodafone Qatar faced challenges in understanding regional revenue fluctuations and subscriber churn, causing uncertainty in forecasting and budget planning. Business teams lacked a consolidated view of key metrics to confidently drive growth and reduce revenue risk. This project addressed the need for a unified analytics platform to improve forecasting accuracy and performance visibility.
+Telecom revenue performance varied significantly across regions and customer segments, with fluctuating churn and subscriber behavior creating forecasting uncertainty. Finance and strategy teams lacked a consolidated view of revenue, churn, and network performance, hindering confident budget planning and growth identification.
 
 ---
 
 ## Objective
 
-- Create a clean, enriched dataset optimized for forecasting and analysis
-- Improve quarterly revenue forecast accuracy to optimize budget allocation
+- Improve quarterly revenue forecasting accuracy to optimize budget allocation
 - Reduce churn in key customer segments to protect recurring revenue
+- Create a unified, ML-ready dataset for comprehensive performance analysis
 
 ---
 
@@ -27,27 +27,25 @@ Vodafone Qatar faced challenges in understanding regional revenue fluctuations a
 - Python
 - Microsoft Fabric
 - Power BI
-- Pandas
-- NumPy
-- Kaggle Dataset
+- Numtra
 
 ---
 
 ## Project Workflow
 
 - Collect and clean raw Vodafone Qatar telecom data
-- Engineer and enrich dataset with key KPIs and time dimensions
-- Develop supervised regression models for revenue forecasting
-- Create interactive Power BI dashboards visualizing revenue, churn, and network metrics
-- Deliver actionable insights to finance and strategy teams for decision-making
+- Engineer and validate key performance metrics including revenue and churn
+- Build a centralized, ML-ready dataset integrating business and operational KPIs
+- Develop supervised regression models for quarterly revenue forecasting
+- Create interactive Power BI dashboards to visualize trends and insights
 
 ---
 
 ## Key Insights
 
-- Total revenue increased 14% QoQ, driven largely by the Doha region with 72M subscribers
+- Total revenue increased 14% quarter-over-quarter, driven mainly by Doha region
 - Churn rate for high-value prepaid customers rose by 0.3% QoQ, impacting revenue stability
-- Network availability remained extremely high at 99.95%, supporting customer retention efforts
+- Network availability remained high at 99.95%, supporting strong customer experience
 - Churn in Mobile Postpaid and Fixed Broadband segments exceeded overall churn, risking $8–12K annual revenue loss
 
 ---
@@ -60,9 +58,9 @@ Vodafone Qatar faced challenges in understanding regional revenue fluctuations a
 
 ## Business Impact
 
-- Enhanced forecasting accuracy enabled optimized investment across high-growth segments
-- Reduced uncertainty in revenue planning through unified, ML-ready data foundation
-- Improved visibility into churn risk areas supported targeted retention strategies
+- Enhanced forecasting accuracy enabled optimized investment in high-growth segments
+- Reduced uncertainty in revenue planning through unified analytics platform
+- Accelerated access to actionable insights improved strategic decision-making
 
 ---
 
