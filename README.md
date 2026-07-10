@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Numtra-FF7A00?style=for-the-badge&logoColor=white" alt="Numtra">
+<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex, raw datasets into clear, actionable insights using tools like Python, Pandas, and Power BI. My expertise lies in building robust ETL pipelines, developing data warehouses, and creating interactive dashboards that support forecasting and performance analysis to drive informed business decisions. I focus on leveraging data science and business intelligence techniques to enhance strategic planning and operational efficiency, particularly within finance and telecom contexts.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise includes data extraction, transformation, and loading (ETL), building unified data foundations, and developing interactive dashboards that support forecasting, performance analysis, and strategic decision-making. I focus on applying data analytics and business intelligence techniques to drive measurable improvements in revenue and customer behavior understanding.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst skilled in transforming complex, raw datasets into clear, ac
 
 ## Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Built a unified, ML-ready data platform using NexusMax to forecast revenue and analyze Vodafone Qatar’s telecom performance, enabling data-driven financial and strategic decisions.
+Built a unified, ML-ready analytics platform using NexusMax to forecast Vodafone Qatar’s revenue and analyze performance, enabling data-driven financial and strategic decision-making.
 
 <br>
 
