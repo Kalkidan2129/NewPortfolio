@@ -5,18 +5,17 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-3776AB?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Jupyter%20Notebook-217346?style=for-the-badge&logoColor=white" alt="Jupyter Notebook"> <img src="https://img.shields.io/badge/SQL%20Server-FF7A00?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Excel-00A6A6?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Microsoft%20Azure-6A5ACD?style=for-the-badge&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise includes data extraction, transformation, and loading (ETL), building unified data foundations, and developing interactive dashboards that support forecasting, performance analysis, and strategic decision-making. I focus on applying data analytics and business intelligence techniques to drive measurable improvements in revenue and customer behavior understanding.
+I am a data analyst skilled in transforming complex healthcare data into actionable insights using tools such as Python, SQL Server, Power BI, and Microsoft Fabric. I specialize in building end-to-end analytics workflows that include data extraction, machine learning modeling, and dynamic dashboarding to support informed decision-making. My work focuses on delivering clear, executive-level reporting that drives business intelligence and operational improvements in healthcare settings.
 
 ---
 
 ## Projects
-
 
 <table>
 <tr>
@@ -40,6 +39,37 @@ Built a unified, ML-ready analytics platform using NexusMax to forecast Vodafone
 
 <p align="right">
   <a href="./project-1/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://d2eiog5yno1qk7.cloudfront.net/Final_Readmission_Dashboard.PNG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## 30-Day Hospital Readmission Insights and Cost Trends
+
+Developed predictive models and interactive dashboards to reduce costly 30-day hospital readmissions using AI and clinical data insights.
+
+<br>
+
+<code>Python</code> <code>Microsoft Fabric</code> <code>Power BI</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-2/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
