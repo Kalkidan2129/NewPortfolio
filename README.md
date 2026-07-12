@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/Kaggle%20Dataset-FF7A00?style=for-the-badge&logoColor=white" alt="Kaggle Dataset"> <img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Jupyter%20Notebook-217346?style=for-the-badge&logoColor=white" alt="Jupyter Notebook"> <img src="https://img.shields.io/badge/SQL%20Server-FF7A00?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Microsoft%20Azure-6A5ACD?style=for-the-badge&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-3776AB?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Jupyter%20Notebook-217346?style=for-the-badge&logoColor=white" alt="Jupyter Notebook"> <img src="https://img.shields.io/badge/SQL%20Server-FF7A00?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Excel-00A6A6?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Microsoft%20Azure-6A5ACD?style=for-the-badge&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Microsoft%20Office-217346?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/Kaggle%20Dataset-FF7A00?style=for-the-badge&logoColor=white" alt="Kaggle Dataset"> <img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. I specialize in creating dynamic dashboards and detailed reports that support business intelligence and informed decision-making, particularly within the retail and consumer goods sectors. My focus is on leveraging key performance indicators to track and improve sales performance and profitability.
+I am a data analyst skilled in transforming complex healthcare data into actionable insights using tools like Python, SQL Server, Microsoft Fabric, and Power BI. My work integrates machine learning techniques with robust ETL processes to create dynamic dashboards and reports that support data-driven decision-making and improve operational outcomes. I focus on delivering clear, executive-level business intelligence that enables stakeholders to identify trends, assess risks, and optimize resource allocation.
 
 ---
 
@@ -108,7 +108,6 @@ Developed a Power BI dashboard to analyze Adidas USA sales and profitability tre
 </table>
 
 <br>
-
 
 ---
 
