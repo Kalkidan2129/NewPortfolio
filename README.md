@@ -5,17 +5,18 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Data%20Warehousing-217346?style=for-the-badge&logoColor=white" alt="Data Warehousing"> <img src="https://img.shields.io/badge/ETL-FF7A00?style=for-the-badge&logoColor=white" alt="ETL"> <img src="https://img.shields.io/badge/Microsoft%20Office-00A6A6?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/Report%20Writing-6A5ACD?style=for-the-badge&logoColor=white" alt="Report Writing"> <img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Jupyter%20Notebook-217346?style=for-the-badge&logoColor=white" alt="Jupyter Notebook"> <img src="https://img.shields.io/badge/SQL%20Server-FF7A00?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Microsoft%20Azure-6A5ACD?style=for-the-badge&logoColor=white" alt="Microsoft Azure"> <img src="https://img.shields.io/badge/Kaggle%20Dataset-FF7A00?style=for-the-badge&logoColor=white" alt="Kaggle Dataset"> <img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/NumPy-FF7A00?style=for-the-badge&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Numtra-FF7A00?style=for-the-badge&logoColor=white" alt="Numtra"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI and Excel. I specialize in data cleaning, ETL processes, and building interactive dashboards that support data-driven decision-making and business intelligence. My work demonstrates a strong ability to communicate findings effectively through reports and visualizations across public health and government-related themes.
+I am a data analyst skilled in transforming complex, raw datasets into clear, actionable insights using tools like Python, Pandas, and Power BI. My expertise lies in building robust data pipelines, performing advanced analytics, and creating interactive dashboards that support forecasting and performance tracking for strategic decision-making. I focus on leveraging business intelligence to drive data-driven outcomes, particularly within finance and telecommunications contexts.
 
 ---
 
 ## Projects
+
 
 <table>
 <tr>
@@ -29,7 +30,7 @@ I am a data analyst skilled in transforming complex datasets into clear, actiona
 
 ## Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Built a unified, ML-ready analytics platform using NexusMax to forecast Vodafone Qatar’s revenue and analyze performance, enabling data-driven financial and strategic decision-making.
+Built a unified, ML-ready analytics platform to forecast Vodafone Qatar’s revenue and churn, enabling data-driven strategic planning and enhanced business performance tracking.
 
 <br>
 
@@ -39,99 +40,6 @@ Built a unified, ML-ready analytics platform using NexusMax to forecast Vodafone
 
 <p align="right">
   <a href="./project-1/README.md"><b>View Full Project →</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://d2eiog5yno1qk7.cloudfront.net/Final_Readmission_Dashboard.PNG" width="100%" height="220">
-
-</td>
-
-<td width="55%" valign="top">
-
-## 30-Day Hospital Readmission Insights and Cost Trends
-
-Developed predictive models and interactive dashboards to reduce costly 30-day hospital readmissions using AI and clinical data insights.
-
-<br>
-
-<code>Python</code> <code>Microsoft Fabric</code> <code>Power BI</code>
-
-<br>
-
-<p align="right">
-  <a href="./project-2/README.md"><b>View Full Project →</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://app.colaberry.com/uploads/ProjectRequest/39041/Updated_Adidas_Sales_Gif.png.gif" width="100%" height="220">
-
-</td>
-
-<td width="55%" valign="top">
-
-## Adidas US Sales Dashboard in Power BI
-
-Developed a Power BI dashboard to analyze Adidas USA sales and profitability trends from 2020 to 2021.
-
-<br>
-
-<code>Power BI</code> <code>DAX</code> <code>Excel</code>
-
-<br>
-
-<p align="right">
-  <a href="./project-3/README.md"><b>View Full Project →</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://app.colaberry.com/uploads/ProjectRequest/33509/Accidental_Drug_Related_Deaths_2012-2021.gif" width="100%" height="220">
-
-</td>
-
-<td width="55%" valign="top">
-
-## Accidental Drug Related Deaths 2012-2021
-
-Developed a Power BI dashboard analyzing accidental drug-related deaths to inform public health interventions and policy decisions.
-
-<br>
-
-<code>Power BI</code> <code>DAX</code> <code>Excel</code>
-
-<br>
-
-<p align="right">
-  <a href="./project-4/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
