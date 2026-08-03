@@ -1,53 +1,53 @@
 
-# Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
+# 3 Brothers Retail
 
 ## Project Overview
 
-This project transformed Vodafone Qatar's telecom data into a clean, enriched, and ML-ready dataset using NexusMax, Python, and Microsoft Fabric. It enabled advanced forecasting and performance tracking through a comprehensive Power BI dashboard, uncovering key revenue, churn, and customer behavior insights. The solution supports finance and strategy teams with actionable intelligence for smarter decision-making.
+This project involved creating a comprehensive Power BI dashboard to analyze sales performance and profit margins across multiple dimensions such as time, category, and region. The dashboard provides key performance indicators and visual insights that support informed decision-making for inventory, marketing, and distribution optimization. It highlights trends and discrepancies between sales growth and profit increases to guide strategic business improvements.
 
 ---
 
 ## Business Problem
 
-Vodafone Qatar faced challenges in understanding revenue fluctuations and churn across regions and customer segments due to fragmented data views. This lack of consolidated insights hindered accurate forecasting and budget planning, creating uncertainty for finance and strategy teams. The project aimed to unify and analyze telecom KPIs to improve revenue predictability and reduce churn-related risks.
+3 Brothers Retail experienced a 77% increase in sales from 2019 to 2020, but profits only grew by 14%, causing a declining profit margin. This discrepancy raised concerns about cost management and pricing strategies despite strong sales growth. The company needed insights to understand and address the lagging profitability.
 
 ---
 
 ## Objective
 
-- Create a unified, clean, and ML-ready telecom dataset for advanced analytics
-- Improve quarterly revenue forecasting accuracy to optimize budget allocation
-- Reduce churn in key customer segments to protect recurring revenue
+- Analyze sales and profit trends across multiple dimensions
+- Identify factors contributing to the declining profit margin
+- Provide actionable insights to optimize inventory, marketing, and pricing strategies
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
-- Python
-- Microsoft Fabric
 - Power BI
-- NumPy
-- Pandas
+- Excel
+- ETL processes
+- Kaggle dataset
+- Data modeling
+- Dashboard deployment
 
 ---
 
 ## Project Workflow
 
-- Collect and clean raw Vodafone Qatar telecom data
-- Engineer and enrich dataset with key KPIs and time dimensions
-- Apply supervised regression models for quarterly revenue forecasting
-- Develop interactive Power BI dashboards for performance visualization
-- Deliver actionable insights to finance and strategy teams
+- Ingest and clean retail sales data from Kaggle
+- Transform and model data for multi-dimensional analysis
+- Develop KPIs and visualizations in Power BI
+- Analyze sales and profit trends by category, region, and time
+- Deploy dashboard for stakeholder monitoring and decision-making
 
 ---
 
 ## Key Insights
 
-- Total revenue increased 14% quarter-over-quarter, driven mainly by Doha region
-- Churn rate for high-value prepaid customers rose by 0.3% QoQ, impacting revenue stability
-- Network availability remained high at 99.95%, supporting customer retention efforts
-- Postpaid and fixed broadband segments showed churn rates above overall average, risking $8–12K annual revenue loss
+- Sales increased by 77% from 2019 to 2020, reaching over $1 million
+- Profit grew only 14% during the same period, increasing from $81k to $93k
+- Profit margin declined by 23% despite strong sales growth
+- Key sales regions include the eastern US, West Coast, and Texas
 
 ---
 
@@ -59,9 +59,9 @@ Vodafone Qatar faced challenges in understanding revenue fluctuations and churn 
 
 ## Business Impact
 
-- Enhanced forecasting accuracy enabled optimized investment in high-growth segments
-- Unified analytics platform reduced manual effort and uncertainty in revenue planning
-- Improved churn management opportunities to safeguard recurring revenue streams
+- Enabled stakeholders to identify profit margin erosion despite sales growth
+- Supported strategic decisions on pricing, inventory, and marketing
+- Provided a scalable dashboard for ongoing sales and profit monitoring
 
 ---
 
