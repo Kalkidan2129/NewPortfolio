@@ -1,52 +1,54 @@
 
-# Bike Sales in Six Countries (2011 - 2016)
+# Global Super Store
 
 ## Project Overview
 
-This project analyzed bicycle sales data from 2011 to 2016 across six countries using Power BI to identify year-to-year sales changes. It focused on the impact of seasonal weather and economic conditions on sales performance. The analysis provided actionable recommendations to improve sales strategies.
+This project involved creating a comprehensive Power BI dashboard using the Global Super Store dataset containing 50,000+ customer-centric sales records. The dashboard visualizes sales, profit margins, and year-over-year trends across vendors and markets worldwide. Key metrics and interactive visuals enable data-driven decision-making for retail performance analysis.
 
 ---
 
 ## Business Problem
 
-The bicycle industry faces challenges due to its seasonal nature and sensitivity to economic conditions, impacting sales unpredictably. Understanding year-over-year sales fluctuations across different countries is critical to mitigating these impacts and optimizing inventory and marketing efforts.
+Retail businesses need to analyze large volumes of sales data across multiple markets and vendors to identify performance trends and profitability. Without effective visualization, it is challenging to monitor key sales metrics and make timely strategic decisions.
 
 ---
 
 ## Objective
 
-- Identify year-over-year sales changes in six countries
-- Analyze the impact of seasonal weather and economic factors on sales
-- Provide data-driven recommendations to improve sales performance
+- Load and clean large retail sales dataset for analysis
+- Create calculated columns and measures for profit and sales KPIs
+- Design an interactive dashboard with slicers, maps, and charts for insights
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Microsoft Excel
-- DAX (Data Analysis Expressions)
-- CSV data files
-- Microsoft Office Suite
+- Power BI Desktop
+- DAX
+- Excel
+- Shape Map Visual
+- Data Modeling
+- Data Cleaning
+- Data Visualization
 
 ---
 
 ## Project Workflow
 
-- Load and clean bike sales data in Power BI
-- Create a date table and establish relationships
-- Rearrange categorical data for accurate analysis
-- Develop DAX measures for sales metrics and YOY calculations
-- Design interactive visualizations and dashboards
+- Import and load Excel sales dataset into Power BI
+- Clean dataset by removing unnecessary columns and adjusting data types
+- Create date table and define relationships for time intelligence
+- Develop calculated columns and DAX measures for sales and profit metrics
+- Design and format interactive dashboard with slicers, KPI cards, maps, and charts
 
 ---
 
 ## Key Insights
 
-- Bike sales exhibit strong seasonality influenced by late-arriving spring weather
-- Economic conditions significantly affect discretionary spending on bicycles
-- Sales trends vary notably across different countries
-- Age group segmentation reveals distinct purchasing patterns impacting sales
+- Gross Profit Margin varies significantly across countries and markets
+- Year-over-year profit margin trends highlight growth and decline periods
+- Monthly sales and profit trends reveal seasonal patterns
+- Interactive slicers enable detailed temporal and geographic analysis
 
 ---
 
@@ -58,9 +60,9 @@ The bicycle industry faces challenges due to its seasonal nature and sensitivity
 
 ## Business Impact
 
-- Enabled targeted marketing strategies aligned with seasonal trends
-- Improved inventory planning by understanding year-over-year sales fluctuations
-- Provided actionable insights to mitigate economic impacts on sales
+- Improved visibility into global retail sales performance
+- Enabled data-driven decision-making through interactive dashboards
+- Facilitated identification of profitable markets and growth opportunities
 
 ---
 

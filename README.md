@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Microsoft%20Excel-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Excel"> <img src="https://img.shields.io/badge/DAX-3776AB?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-FF7A00?style=for-the-badge&logoColor=white" alt="Microsoft Office Suite">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Shape%20Map%20Visual-217346?style=for-the-badge&logoColor=white" alt="Shape Map Visual"> <img src="https://img.shields.io/badge/Data%20Modeling-FF7A00?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Cleaning-00A6A6?style=for-the-badge&logoColor=white" alt="Data Cleaning"> <img src="https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Visualization">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. I specialize in creating clear, data-driven dashboards and reports that support business intelligence and decision-making, particularly within retail and sales contexts. My work focuses on analyzing trends and patterns to provide recommendations that help address operational challenges and improve performance.
+I am a data analyst skilled in transforming complex, customer-centric datasets into clear, actionable insights using tools like Power BI. My experience includes developing dynamic dashboards and reports that support sales and business intelligence initiatives, enabling informed decision-making. I focus on leveraging data to uncover trends and opportunities within retail environments.
 
 ---
 
@@ -22,19 +22,19 @@ I am a data analyst skilled in transforming raw sales data into actionable insig
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://app.colaberry.com/uploads/ProjectRequest/34317/Executive_Summary.gif" width="100%" height="220">
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32749/GSS.PNG" width="100%" height="220">
 
 </td>
 
 <td width="55%" valign="top">
 
-## Bike Sales in Six Countries (2011 - 2016)
+## Global Super Store
 
-Analyzed year-over-year bike sales across six countries using Power BI to identify trends and recommend strategies addressing seasonal and economic business challenges.
+Built an interactive Power BI dashboard analyzing global retail sales and profit trends from 2011 to 2015 to support data-driven business decisions.
 
 <br>
 
-<code>Power BI</code> <code>Microsoft Excel</code> <code>DAX</code>
+<code>Power BI Desktop</code> <code>DAX</code> <code>Excel</code>
 
 <br>
 
