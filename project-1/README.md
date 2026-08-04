@@ -1,53 +1,52 @@
 
-# 3 Brothers Retail
+# Bike Sales in Six Countries (2011 - 2016)
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze sales performance and profit margins across multiple dimensions such as time, category, and region. The dashboard provides key performance indicators and visual insights that support informed decision-making for inventory, marketing, and distribution optimization. It highlights trends and discrepancies between sales growth and profit increases to guide strategic business improvements.
+This project analyzed bicycle sales data from 2011 to 2016 across six countries using Power BI to identify year-to-year sales changes. It focused on the impact of seasonal weather and economic conditions on sales performance. The analysis provided actionable recommendations to improve sales strategies.
 
 ---
 
 ## Business Problem
 
-3 Brothers Retail experienced a 77% increase in sales from 2019 to 2020, but profits only grew by 14%, causing a declining profit margin. This discrepancy raised concerns about cost management and pricing strategies despite strong sales growth. The company needed insights to understand and address the lagging profitability.
+The bicycle industry faces challenges due to its seasonal nature and sensitivity to economic conditions, impacting sales unpredictably. Understanding year-over-year sales fluctuations across different countries is critical to mitigating these impacts and optimizing inventory and marketing efforts.
 
 ---
 
 ## Objective
 
-- Analyze sales and profit trends across multiple dimensions
-- Identify factors contributing to the declining profit margin
-- Provide actionable insights to optimize inventory, marketing, and pricing strategies
+- Identify year-over-year sales changes in six countries
+- Analyze the impact of seasonal weather and economic factors on sales
+- Provide data-driven recommendations to improve sales performance
 
 ---
 
 ## Tools & Technologies
 
 - Power BI
-- Excel
-- ETL processes
-- Kaggle dataset
-- Data modeling
-- Dashboard deployment
+- Microsoft Excel
+- DAX (Data Analysis Expressions)
+- CSV data files
+- Microsoft Office Suite
 
 ---
 
 ## Project Workflow
 
-- Ingest and clean retail sales data from Kaggle
-- Transform and model data for multi-dimensional analysis
-- Develop KPIs and visualizations in Power BI
-- Analyze sales and profit trends by category, region, and time
-- Deploy dashboard for stakeholder monitoring and decision-making
+- Load and clean bike sales data in Power BI
+- Create a date table and establish relationships
+- Rearrange categorical data for accurate analysis
+- Develop DAX measures for sales metrics and YOY calculations
+- Design interactive visualizations and dashboards
 
 ---
 
 ## Key Insights
 
-- Sales increased by 77% from 2019 to 2020, reaching over $1 million
-- Profit grew only 14% during the same period, increasing from $81k to $93k
-- Profit margin declined by 23% despite strong sales growth
-- Key sales regions include the eastern US, West Coast, and Texas
+- Bike sales exhibit strong seasonality influenced by late-arriving spring weather
+- Economic conditions significantly affect discretionary spending on bicycles
+- Sales trends vary notably across different countries
+- Age group segmentation reveals distinct purchasing patterns impacting sales
 
 ---
 
@@ -59,9 +58,9 @@ This project involved creating a comprehensive Power BI dashboard to analyze sal
 
 ## Business Impact
 
-- Enabled stakeholders to identify profit margin erosion despite sales growth
-- Supported strategic decisions on pricing, inventory, and marketing
-- Provided a scalable dashboard for ongoing sales and profit monitoring
+- Enabled targeted marketing strategies aligned with seasonal trends
+- Improved inventory planning by understanding year-over-year sales fluctuations
+- Provided actionable insights to mitigate economic impacts on sales
 
 ---
 

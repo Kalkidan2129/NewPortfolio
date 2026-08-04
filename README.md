@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-025E8C?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/ETL%20processes-3776AB?style=for-the-badge&logoColor=white" alt="ETL processes"> <img src="https://img.shields.io/badge/Kaggle%20dataset-217346?style=for-the-badge&logoColor=white" alt="Kaggle dataset"> <img src="https://img.shields.io/badge/Data%20modeling-FF7A00?style=for-the-badge&logoColor=white" alt="Data modeling"> <img src="https://img.shields.io/badge/Dashboard%20deployment-00A6A6?style=for-the-badge&logoColor=white" alt="Dashboard deployment">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Microsoft%20Excel-025E8C?style=for-the-badge&logoColor=white" alt="Microsoft Excel"> <img src="https://img.shields.io/badge/DAX-3776AB?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV"> <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-FF7A00?style=for-the-badge&logoColor=white" alt="Microsoft Office Suite">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw data into actionable insights through tools like Power BI and Excel. I specialize in building interactive dashboards and reports that highlight key performance indicators, enabling stakeholders to monitor trends and make data-driven decisions. My work focuses on retail analytics, where I analyze sales performance and profitability across multiple dimensions to support strategic business initiatives.
+I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. I specialize in creating clear, data-driven dashboards and reports that support business intelligence and decision-making, particularly within retail and sales contexts. My work focuses on analyzing trends and patterns to provide recommendations that help address operational challenges and improve performance.
 
 ---
 
@@ -22,19 +22,19 @@ I am a data analyst skilled in transforming raw data into actionable insights th
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://d2eiog5yno1qk7.cloudfront.net/Overview_of_Dashboard.gif" width="100%" height="220">
+<img src="https://app.colaberry.com/uploads/ProjectRequest/34317/Executive_Summary.gif" width="100%" height="220">
 
 </td>
 
 <td width="55%" valign="top">
 
-## 3 Brothers Retail
+## Bike Sales in Six Countries (2011 - 2016)
 
-Built a Power BI dashboard analyzing multi-dimensional sales and profit trends to empower strategic decisions enhancing retail business performance and profitability.
+Analyzed year-over-year bike sales across six countries using Power BI to identify trends and recommend strategies addressing seasonal and economic business challenges.
 
 <br>
 
-<code>Power BI</code> <code>Excel</code> <code>ETL processes</code>
+<code>Power BI</code> <code>Microsoft Excel</code> <code>DAX</code>
 
 <br>
 
