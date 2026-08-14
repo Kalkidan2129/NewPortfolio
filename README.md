@@ -5,18 +5,17 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Shape%20Map%20Visual-217346?style=for-the-badge&logoColor=white" alt="Shape Map Visual"> <img src="https://img.shields.io/badge/Data%20Modeling-FF7A00?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Cleaning-00A6A6?style=for-the-badge&logoColor=white" alt="Data Cleaning"> <img src="https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Visualization">
+<img src="https://img.shields.io/badge/NexusMax-F2C811?style=for-the-badge&logoColor=white" alt="NexusMax"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Microsoft%20Fabric-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Fabric"> <img src="https://img.shields.io/badge/Power%20BI-217346?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Numtra-FF7A00?style=for-the-badge&logoColor=white" alt="Numtra"> <img src="https://img.shields.io/badge/Pandas-00A6A6?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Shape%20Map%20Visual-217346?style=for-the-badge&logoColor=white" alt="Shape Map Visual"> <img src="https://img.shields.io/badge/Data%20Modeling-FF7A00?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Cleaning-00A6A6?style=for-the-badge&logoColor=white" alt="Data Cleaning"> <img src="https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge&logoColor=white" alt="Data Visualization">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex, customer-centric datasets into clear, actionable insights using tools like Power BI. My experience includes developing dynamic dashboards and reports that support sales and business intelligence initiatives, enabling informed decision-making. I focus on leveraging data to uncover trends and opportunities within retail environments.
+I am a data analyst skilled in transforming complex raw datasets into clear, actionable insights using tools like Python, Power BI, and Microsoft Fabric. My expertise includes data cleaning, ETL processes, and building interactive dashboards that support forecasting, performance analysis, and strategic decision-making. I focus on leveraging business intelligence and machine learning techniques to drive data-driven outcomes, particularly within finance and telecommunications contexts.
 
 ---
 
 ## Projects
-
 
 <table>
 <tr>
@@ -40,6 +39,37 @@ Built an interactive Power BI dashboard analyzing global retail sales and profit
 
 <p align="right">
   <a href="./project-1/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="./screenshots/preview.png" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+## Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
+
+Developed a unified ML-ready platform for Vodafone Qatar enabling accurate revenue forecasting and performance analysis from 2021 to 2023.
+
+<br>
+
+<code>NexusMax</code> <code>Python</code> <code>Microsoft Fabric</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-2/README.md"><b>View Full Project →</b></a>
 </p>
 
 </td>
